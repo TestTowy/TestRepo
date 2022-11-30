@@ -12,3 +12,5 @@ d
 das
 
 echo "dupabiskipa"
+
+Jak tak ? ....
