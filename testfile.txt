@@ -14,4 +14,3 @@ das
 echo "dupabiskipa"
 
 Jak tak ? ....
-testttt
