@@ -1,1 +1,1 @@
-Nowy pliczek
+echo "Test output"
